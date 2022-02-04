@@ -1,0 +1,17 @@
+{
+  "name": "my-starter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "yarn parcel index.html"
+  },
+  "dependencies": {
+    "core-js": "^2.6.12",
+    "react": "16.6.3",
+    "react-dom": "16.6.3"
+  },
+  "devDependencies": {
+    "parcel": "latest"
+  }
+}
